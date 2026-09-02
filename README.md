@@ -170,7 +170,7 @@ Optional email notifications can support the scheduled-maintenance approval work
 
 The official Incident Banner release package, documentation, eligible updates, and purchaser support are distributed by **Duster Tech Solutions**.
 
-**Purchase/download:** Patreon link coming soon.
+**Purchase/download:** [https://www.patreon.com/cw/dustertechsolutions](https://www.patreon.com/cw/dustertechsolutions)
 
 The complete plugin source is included with the purchased release package. This public repository is currently used for project information, compatibility details, screenshots, changelogs, and issue tracking rather than distribution of the release archive.
 
