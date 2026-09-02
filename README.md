@@ -98,7 +98,71 @@ Detailed installation, upgrade, rollback, configuration, and testing instruction
 
 ## Screenshots
 
-Screenshots and product demonstrations will be added to this repository.
+### Client Portal — Multiple Active Incidents
+
+Public incidents can be displayed directly on the client portal so users can immediately see known outages and service interruptions.
+
+![Client portal showing multiple active incidents](screenshots/Client%20Side%20-%20Multiple%20active%20incidents.png)
+
+### Client Portal — Expanded Incident Timeline
+
+Users can expand an incident to view current details and the chronological update timeline.
+
+![Expanded client incident view](screenshots/Client%20-%20Expanded%20incident%20view.png)
+
+### Incident Manager — Active Incidents
+
+Authorized staff can manage multiple incidents from the Incident Manager while keeping active incident notices visible inside the agent interface.
+
+![Incident Manager showing active incidents](screenshots/Agent%20-%20showing%20incident%20manager%20and%20active%20incidents..png)
+
+### Severity Levels
+
+Info, Minor, Major, and Critical incidents use distinct visual severity indicators.
+
+![Incident severity colors](screenshots/severity%20colors.png)
+
+### Planned Maintenance
+
+Trusted users can schedule planned maintenance with defined start and end times and, when configured, route the event through an approval workflow.
+
+![Planned maintenance scheduling screen](screenshots/Planned%20Maintenance%20Scheduling%20Screen.png)
+
+### Linked Tickets
+
+Helpdesk tickets related to an outage or service interruption can be linked directly to the corresponding incident.
+
+![Linked tickets inside an incident](screenshots/Linked%20Tickets%20shown%20inside%20an%20incident.png)
+
+### Permissions and Configuration
+
+Incident Banner includes configurable access controls for Incident Managers, ticket linking, maintenance scheduling, department visibility, and other plugin options.
+
+![Plugin permissions and configuration](screenshots/Plugin%20permissions-configuration%20page.png)
+
+### Incident History and Search
+
+Past and current incidents can be reviewed and searched by incident number, title, affected service, or linked ticket.
+
+![Incident history and search](screenshots/Incident%20history%20and%20search%20page.png)
+
+### Incident Audit History
+
+Incident activity is recorded in an audit history to provide a record of updates and management actions.
+
+![Incident audit history](screenshots/Incident%20audit%20history.png)
+
+### Printable Incident Reports
+
+Incident details, timelines, linked tickets, and history can be presented in a printable report for documentation or review.
+
+![Printable incident report](screenshots/Printable%20incident%20report.png)
+
+### Scheduled Maintenance Approval Notification
+
+Optional email notifications can support the scheduled-maintenance approval workflow.
+
+![Scheduled maintenance approval notification email](screenshots/Scheduled%20Maintence%20Approval%20notification%20email.png)
 
 ---
 
